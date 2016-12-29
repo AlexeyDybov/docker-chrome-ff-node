@@ -10,7 +10,7 @@
         },
         {
           "browserName": "chrome",
-          "version": "53",
+          "version": "55",
           "platform": "LINUX",
           "maxInstances": 1,
           "seleniumProtocol": "WebDriver"
